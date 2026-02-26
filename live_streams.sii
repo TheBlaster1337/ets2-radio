@@ -35,7 +35,8 @@ live_stream_def : _nameless.2a3.354b.f250 {
  stream_data[30]: "http://88.119.151.74:8001/xfm|X FM|Sim radio|LT|176|0"
  stream_data[31]: "https://stream2.zipfm.lt/zipfm128.mp3|ZIP FM|Sim radio|LT|128|0"
  stream_data[32]: "https://netradio.ziniur.lt/ziniur.mp3|Ziniu Radijas FM|Sim radio|LT|256|0"
-
+ stream_data[33]: "https://127.0.0.1:8080/LTRGFM|LTRG FM|Sim radio|LT|256|0"
 }
 
 }
+
