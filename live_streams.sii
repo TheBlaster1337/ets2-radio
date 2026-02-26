@@ -1,0 +1,41 @@
+SiiNunit
+{
+live_stream_def : _nameless.2a3.354b.f250 {
+ stream_data: 32
+ stream_data[0]: "http://radio.audiomastering.lt:8000/hq|Audiomastering.lt|Sim radio|LT|320|0"
+ stream_data[1]: "http://netradio.ziniur.lt/easyfm.mp3|Easy FM|Jazz|LT|256|0"
+ stream_data[2]: "https://127.0.0.1:8080/European%20Hit%20Radio|European Hit Radio|Sim radio|LT|192|0"
+ stream_data[3]: "https://127.0.0.1:8080/Extra%20FM|Extra FM|Sim radio|LT|192|0"
+ stream_data[4]: "https://stream.goldfm.lt/gerasfm.mp3|Geras FM|Sim radio|LT|192|0"
+ stream_data[5]: "https://stream.goldfm.lt/goldfm.mp3|Gold FM|Sim radio|LT|192|0"
+ stream_data[6]: "https://solid55.streamupsolutions.com/proxy/opcubjpd/stream|Kelyje Kaunas|Sim radio|LT|192|0"
+ stream_data[7]: "https://solid55.streamupsolutions.com/proxy/ugeiluxh/stream|Kelyje Klaipeda|Sim radio|LT|192|0"
+ stream_data[8]: "https://solid55.streamupsolutions.com/proxy/ugeiluxh/stream|Kelyje Vilnius|Sim radio|LT|192|0"
+ stream_data[9]: "http://radio.m-1.fm/laluna/mp3|Laluna|Sim radio|LT|160|0"
+ stream_data[10]: "http://radio.m-1.fm/m1/mp3|M-1|Sim radio|LT|192|0"
+ stream_data[11]: "http://radio.m-1.fm/m1plius/mp3|M-1 Plius|Sim radio|LT|192|0"
+ stream_data[12]: "http://stream.manofm.lt/listen?|Mano FM|Pop|LT|128|0"
+ stream_data[13]: "https://pmr.lt/streams/pmr-2|PMR|Sim radio|LT|192|0"
+ stream_data[14]: "https://127.0.0.1:8080/Power%20Hit%20Radio|Power Hit Radio|Pop|LT|128|0"
+ stream_data[15]: "http://212.95.45.82:8000/stream|Pūkas|Folk, Pop|LT|192|0"
+ stream_data[16]: "http://212.95.39.164:8074/stream|Pukas 2|Sim radio|LT|192|0"
+ stream_data[17]: "http://radijas.tau.lt:8000/stream|Radijas Tau|Sim radio|LT|128|0"
+ stream_data[18]: "https://radio.m-1.fm/LIETUS|Radijo Stotis Lietus|Sim radio|LT|192|0"
+ stream_data[19]: "http://svetur.intellmedia.lt:8282/tiesiogiai.mp3|Radijo Stotis Svetur|Sim radio|LT|128|0"
+ stream_data[20]: "http://91.211.246.42:8000/XXL-FM|Radijo stotis XXL FM|Sim radio|LT|320|0"
+ stream_data[21]: "http://transliacija.rc.lt/rc128.mp3|Radiocentras FM|Sim radio|LT|128|0"
+ stream_data[22]: "http://plays.zw.lt/zw128|Radio ZW Znad Wilii|Sim radio|LT|256|0"
+ stream_data[23]: "http://5.20.223.18/relaxfm128.mp3|Relax FM|Pop|LT|128|0"
+ stream_data[24]: "http://5.20.223.18/rrb128.mp3|RADIO R|Pop|LT|128|0"
+ stream_data[25]: "http://saule-mp3.vinlita.lt:8008/stream.mp3|Saules Radijas|Sim radio|LT|128|0"
+ stream_data[26]: "http://eteris.startfm.lt/startfm.mp3|Start FM|Sim radio|LT|320|0"
+ stream_data[27]: "http://stream.tauragesradijas.lt:8000/tr1|Taurages Radijas|Sim radio|LT|192|0"
+ stream_data[28]: "http://upsas.eu:8000/upsas_320|Upso Radijas|Sim radio|LT|320|0"
+ stream_data[29]: "http://88.119.151.74:8001/vaikuradijas|Vaiku Radijas|Sim radio|LT|128|0"
+ stream_data[30]: "http://88.119.151.74:8001/xfm|X FM|Sim radio|LT|176|0"
+ stream_data[31]: "https://stream2.zipfm.lt/zipfm128.mp3|ZIP FM|Sim radio|LT|128|0"
+ stream_data[32]: "https://netradio.ziniur.lt/ziniur.mp3|Ziniu Radijas FM|Sim radio|LT|256|0"
+
+}
+
+}
