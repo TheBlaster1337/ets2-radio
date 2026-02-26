@@ -1,0 +1,23 @@
+{
+  "European Hit Radio": "https://stream.ehr.lt:8443/ehr",
+  "M-1": "http://radio.m-1.fm/m1/mp3",
+  "M-1 Plius": "https://radio.m-1.fm/m1plius/mp3",
+  "Kelyje Kaunas": "https://solid55.streamupsolutions.com/proxy/opcubjpd/stream",
+  "Kelyje Klaipėda": "https://solid55.streamupsolutions.com/proxy/ugeiluxh/stream",
+  "Power Hit Radio": "http://ice1.powerhitradio.lt/PHR_AAC",
+  "Pūkas": "http://212.95.45.82:8000/stream",
+  "Pūkas 2": "http://212.95.39.164:8074/stream",
+  "Radiocentras": "http://transliacija.rc.lt/rc128.mp3",
+  "Relax FM": "https://stream1.relaxfm.lt/relaxfm128.mp3",
+  "Rock FM": "https://stream1.rockfm.lt/crf128.mp3",
+  "Radio R": "https://stream1.relaxfm.lt/rrb128.mp3",
+  "Zip FM": "https://stream2.zipfm.lt/zipfm128.mp3",
+  "Gold FM": "https://stream.goldfm.lt/goldfm.mp3",
+  "Lietus": "https://radio.m-1.fm/lietus/mp3",
+  "Easy FM": "https://netradio.ziniur.lt/easyfm.mp3",
+  "Žinių radijas": "https://netradio.ziniur.lt/ziniur.mp3",
+  "Extra FM": "https://n16a-eu.rcs.revma.com/8cwskd80zxcwv",
+  "Geras FM": "https://stream.goldfm.lt/gerasfm.mp3",
+  "Mano FM": "http://broadcast.manofm.lt:8000/stream",
+  "LTRGFM": "http://37.157.242.102:25462/listen.pls"
+}
